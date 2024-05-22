@@ -2,7 +2,6 @@
 <h3 align="center">Computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandysam39&label=Profile%20views&color=0e75b6&style=flat" alt="sandysam39" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sandysam39?tab=projects&type=beta](https://github.com/sandysam39?tab=projects&type=beta)
 
